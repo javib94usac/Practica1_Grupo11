@@ -4,3 +4,6 @@
 
 def potencia_cubica(num):
 	return num*num*num
+
+def raiz_cubica(num):
+ return num ** (1. / 3)
